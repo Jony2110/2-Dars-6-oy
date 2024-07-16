@@ -1,0 +1,22 @@
+.userFlex img{
+width: 320px;
+height: 320px;
+padding-left: 5px;
+padding-top:  5px; ;
+}
+.userFlex h2{
+    display: flex;
+    justify-content: center;
+}
+.phoneFlex{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 2px;
+    margin: 10px;;
+    
+}
+.userFlex{
+    border: 1px solid #1726d0;
+    width: 330px;
+}
